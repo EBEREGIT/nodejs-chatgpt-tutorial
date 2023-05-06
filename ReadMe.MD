@@ -2,7 +2,7 @@
 
 This repository contains a backend chatbot project based on the ChatGPT `gpt-3.5-turbo` model.
 
-Click [here]() to view the tutorial that give birth to this project
+Click [here](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/) to view the tutorial that give birth to this project
 
 ## Dependencies
 * [OpenAI](https://openai.com/)
