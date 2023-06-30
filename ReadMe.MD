@@ -4,6 +4,9 @@ This repository contains a backend chatbot project based on the ChatGPT `gpt-3.5
 
 Click [here](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-openai-chatgpt-nodejs-and-react/) to view the tutorial that give birth to this project
 
+See the Video Tutorial: <br />
+[![How to Build an AI-Powered ChatBot with OpenAI, ChatGPT, Node.js, and React](https://i.ytimg.com/vi/T-9-_1w82Jg/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBvEKpZDH0nbnyAErAxl0Tt3ZodLA)](https://www.youtube.com/playlist?list=PLOvIwkWvHysNRNjLPcHHAWXrLzRkl__kR)
+
 ## Dependencies
 * [OpenAI](https://openai.com/)
 * [ChatGPT](https://platform.openai.com/)
